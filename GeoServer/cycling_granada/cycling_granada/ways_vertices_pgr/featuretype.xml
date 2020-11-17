@@ -1,0 +1,53 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--3df86b39:175720ad228:-5d0b</id>
+  <name>ways_vertices_pgr</name>
+  <nativeName>ways_vertices_pgr</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--3df86b39:175720ad228:-5d11</id>
+  </namespace>
+  <title>ways_vertices_pgr</title>
+  <keywords>
+    <string>features</string>
+    <string>ways_vertices_pgr</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
+  DATUM[&quot;World Geodetic System 1984&quot;, 
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-4.4821891784668</minx>
+    <maxx>-1.98992395401001</maxx>
+    <miny>36.6806907653809</miny>
+    <maxy>38.2050323486328</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-4.4821891784668</minx>
+    <maxx>-1.98992395401001</maxx>
+    <miny>36.6806907653809</miny>
+    <maxy>38.2050323486328</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--3df86b39:175720ad228:-5d10</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

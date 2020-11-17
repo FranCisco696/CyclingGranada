@@ -1,0 +1,56 @@
+html, body, #container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  padding-top: 50px;
+}
+
+#map {
+  width: auto;
+  height: 100%;
+}
+
+#starting_point{
+    transition-duration: .3s;
+  }
+  #starting_point.draw_starting_point-active{
+    background-color: white;
+  }
+  #starting_point.delete_starting_point-active{
+    background-color: lightgreen;
+  }
+  
+#ending_point{
+  transition-duration: .3s;
+  }
+  #ending_point.draw_ending_point-active{
+    background-color: white;
+  }
+  #ending_point.delete_ending_point-active{
+    background-color: lightcoral;
+  }
+
+  
+#calculate_route{
+  transition-duration: .3s;
+  }
+  #calculate_route.draw_route-active{
+    background-color: white;
+  }
+  #calculate_route.delete_route-active{
+    background-color: lightblue;
+  }
+  
+#my_location{
+  transition-duration: .3s;
+  }
+  #my_location.draw_myLocation-active{
+    background-color: white;
+  }
+  #my_location.delete_myLocation-active{
+    background-color: lightskyblue;
+  }
+

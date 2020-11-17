@@ -1,0 +1,16 @@
+<layer>
+  <name>GR_MaskNegative_Disolved</name>
+  <id>LayerInfoImpl--3df86b39:175720ad228:-4a8d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4d4ff5bc:17424b375fd:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3df86b39:175720ad228:-4a8e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-11-01 02:45:47.562 UTC</dateCreated>
+</layer>

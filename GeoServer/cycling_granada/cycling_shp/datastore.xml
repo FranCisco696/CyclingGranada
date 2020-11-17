@@ -1,0 +1,25 @@
+<dataStore>
+  <id>DataStoreInfoImpl--3df86b39:175720ad228:-4a91</id>
+  <name>cycling_shp</name>
+  <description>cycling_shp</description>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--3df86b39:175720ad228:-5d12</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Etc/UTC</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">https://fagomez.achiefs.com/cyclingGR/</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:data/Cycling_shp</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2020-11-01 02:15:43.333 UTC</dateCreated>
+  <dateModified>2020-11-17 10:54:36.543 UTC</dateModified>
+</dataStore>

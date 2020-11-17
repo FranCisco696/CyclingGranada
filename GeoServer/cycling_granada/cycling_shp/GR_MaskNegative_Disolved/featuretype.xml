@@ -1,0 +1,50 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--3df86b39:175720ad228:-4a8e</id>
+  <name>GR_MaskNegative_Disolved</name>
+  <nativeName>GR_MaskNegative_Disolved</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--3df86b39:175720ad228:-5d11</id>
+  </namespace>
+  <title>GR_MaskNegative_Disolved</title>
+  <keywords>
+    <string>features</string>
+    <string>GR_MaskNegative_Disolved</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
+  DATUM[&quot;World Geodetic System 1984&quot;, 
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-31.267909999999993</minx>
+    <maxx>11.998499999999998</maxx>
+    <miny>18.963899999999988</miny>
+    <maxy>43.79237957</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-31.267909999999993</minx>
+    <maxx>11.998499999999998</maxx>
+    <miny>18.963899999999988</miny>
+    <maxy>43.79237957</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--3df86b39:175720ad228:-4a91</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

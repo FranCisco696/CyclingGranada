@@ -1,0 +1,16 @@
+<layer>
+  <name>ways</name>
+  <id>LayerInfoImpl--3df86b39:175720ad228:-5d0d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4d4ff5bc:17424b375fd:-7ffd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3df86b39:175720ad228:-5d0e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-10-31 22:39:26.183 UTC</dateCreated>
+</layer>

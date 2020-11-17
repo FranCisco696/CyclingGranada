@@ -1,0 +1,16 @@
+<layer>
+  <name>ways_vertices_pgr</name>
+  <id>LayerInfoImpl--3df86b39:175720ad228:-5d0a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4d4ff5bc:17424b375fd:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3df86b39:175720ad228:-5d0b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-10-31 22:40:11.764 UTC</dateCreated>
+</layer>

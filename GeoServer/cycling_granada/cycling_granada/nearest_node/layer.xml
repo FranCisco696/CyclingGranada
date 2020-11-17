@@ -1,0 +1,17 @@
+<layer>
+  <name>nearest_node</name>
+  <id>LayerInfoImpl--3df86b39:175720ad228:-5d07</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4d4ff5bc:17424b375fd:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3df86b39:175720ad228:-5d08</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-10-31 22:43:17.782 UTC</dateCreated>
+  <dateModified>2020-10-31 22:45:13.316 UTC</dateModified>
+</layer>

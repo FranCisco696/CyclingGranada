@@ -1,0 +1,16 @@
+<layer>
+  <name>dijkstra_shortest_path_mtb</name>
+  <id>LayerInfoImpl--3df86b39:175720ad228:-5cfc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4d4ff5bc:17424b375fd:-7ffa</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3df86b39:175720ad228:-5cfd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-10-31 22:52:39.732 UTC</dateCreated>
+</layer>
